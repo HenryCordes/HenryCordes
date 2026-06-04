@@ -11,7 +11,7 @@ I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce custo
 **Based in:** the Netherlands · working remotely
 
 ### Currently building
-- **[Paperwork](https://paper-work.nl)** — -subset of repo made public - bookkeeping and tax administration for small-business owners.
+- **[Paperwork](https://paper-work.nl)** — subset of repo made public - bookkeeping and tax administration for small-business owners.
 - **[Paperwork-app](https://apps.apple.com/us/app/paperwork/id6746358088)** — App for paperwork - bookkeeping and tax administration for small-business owners.
 
 ### Elsewhere
