@@ -6,7 +6,7 @@ I design and build maintainable, elegant products end to end — from architectu
 
 I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce customer-service/helpdesk SaaS, taking it from the first commit through to a mature platform — and I've spent my career raising engineering quality through TDD, DDD, clean architecture and CI/CD, while mentoring the teams around me.
 
-**Working with:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · MongoDB · AWS
+**Working with:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · MongoDB · Docker · AWS
 **Approach:** clean architecture, TDD/DDD, CI/CD, and AI-native engineering
 **Based in:** the Netherlands · working remotely
 
