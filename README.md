@@ -12,7 +12,7 @@ I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce custo
 
 ### Currently building
 - **[Paperwork](https://paper-work.nl)** — bookkeeping and tax administration for small-business owners.
-- **[paperwork-app](https://apps.apple.com/us/app/paperwork/id6746358088)** — App for paperwork - bookkeeping and tax administration for small-business owners.
+- **[Paperwork-app](https://apps.apple.com/us/app/paperwork/id6746358088)** — App for paperwork - bookkeeping and tax administration for small-business owners.
 
 ### Elsewhere
 - Website — [devartist.nl](https://devartist.nl)
