@@ -2,11 +2,11 @@
 
 **Senior Fullstack Engineer — 20+ years shipping web and mobile products.**
 
-I design and build maintainable, elegant products end to end: from architecture and data modelling down to the details customers actually feel. Currently engineering for global clients at Lumenalta, and founder of my own practice, Dev Artist.
+I design and build maintainable, elegant products end to end — from architecture and data modelling through to a polished product. The best part for me is seeing real people use something I've built and have it genuinely improve their workflow, or a part of their day. Currently engineering for global clients at Lumenalta, and founder of my own practice, Dev Artist.
 
 I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce customer-service/helpdesk SaaS, taking it from the first commit through to a mature platform — and I've spent my career raising engineering quality through TDD, DDD, clean architecture and CI/CD, while mentoring the teams around me.
 
-**Working with:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · AWS
+**Working with:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · MongoDB · AWS
 **Approach:** clean architecture, TDD/DDD, CI/CD, and AI-native engineering
 **Based in:** the Netherlands · working remotely
 
