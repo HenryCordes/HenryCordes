@@ -13,7 +13,7 @@ I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce custo
 **Based in:** the Netherlands · working remotely
 
 ### Building
-- **Paperwork** — bookkeeping & tax automation for Dutch small businesses. Live on [web](https://paper-work.nl), [iOS](https://apps.apple.com/us/app/paperwork/id6746358088) and [Android](https://play.google.com/store/apps/details?id=nl.paperwork.app). Code: [web/backend](https://github.com/HenryCordes/paperwork-public) · [mobile app](https://github.com/HenryCordes/paperwork-app).
+- **Paperwork** — bookkeeping & tax automation for Dutch small businesses. Live on [web](https://paper-work.nl), [iOS](https://apps.apple.com/us/app/paperwork/id6746358088) and [Android](https://play.google.com/store/apps/details?id=nl.paperwork.app). Code: [web/backend](https://github.com/HenryCordes/paperwork-public) · [mobile app](https://github.com/HenryCordes/paperwork-app-public).
 
 ### Elsewhere
 [devartist.nl](https://devartist.nl) · [LinkedIn](https://www.linkedin.com/in/henrycordes)
