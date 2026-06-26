@@ -8,7 +8,7 @@ I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce custo
 
 **Working with:** TypeScript · React · Next.js · Node.js · Tailwind · GraphQL · PostgreSQL · MongoDB · Docker · AWS
 
-**How I work:** clean architecture, TDD/DDD, CI/CD — and AI-native: a spec-driven workflow (brainstorm → spec → plan → implement) with reusable skills, rules and parallel agents. A look at my setup → [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow).
+**How I work:** clean architecture, TDD/DDD, CI/CD — and AI-native: a spec-driven workflow (brainstorm → spec → plan → implement) with reusable skills, rules, workflows and parallel agents. A look at my setup → [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow).
 
 **Based in:** the Netherlands · working remotely
 
