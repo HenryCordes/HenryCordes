@@ -1,21 +1,28 @@
 # Henry Cordes
 
-**Senior Fullstack Engineer —15+ years shipping web and mobile products.**
+**Senior Fullstack Engineer — 20+ years shipping web and mobile products.**
 
 I design and build maintainable, elegant products end to end — from architecture and data modelling through to a polished product. The best part for me is seeing real people use something I've built and have it genuinely improve their workflow, or a part of their day. Currently engineering for global clients at Lumenalta, and founder of my own practice, Dev Artist.
 
-I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce customer-service/helpdesk SaaS — taking it from the first commit to a mature platform that was later acquired — and across my career I've raised engineering quality through TDD, DDD, clean architecture and CI/CD while mentoring the teams around me.
+I spent ~8 years as architect and lead developer of RobinHQ, an e-commerce customer-service/helpdesk SaaS, taking it from the first commit through to a mature platform — and I've spent my career raising engineering quality through TDD, DDD, clean architecture and CI/CD, while mentoring the teams around me.
 
-**Working with:** TypeScript · React · Next.js · Node.js · Tailwind · GraphQL · PostgreSQL · MongoDB · Docker · AWS
+**Working with:** TypeScript · React · Next.js · Node.js · GraphQL · PostgreSQL · MongoDB · Docker · AWS
 
-**How I work:** clean architecture, TDD/DDD, CI/CD — and AI-native: a spec-driven workflow (brainstorm → spec → plan → implement) with reusable skills, rules, workflows and parallel agents. A look at my setup → [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow).
+**Approach:** clean architecture, TDD/DDD, CI/CD, and AI-native engineering
 
 **Based in:** the Netherlands · working remotely
 
-### Building
-- **Paperwork** — bookkeeping & tax automation for Dutch small businesses. Live on [web](https://paper-work.nl), [iOS](https://apps.apple.com/us/app/paperwork/id6746358088) and [Android](https://play.google.com/store/apps/details?id=nl.paperwork.app). Code: [web/backend](https://github.com/HenryCordes/paperwork-public) · [mobile app](https://github.com/HenryCordes/paperwork-app-public).
+### Currently building
+
+**Paperwork** — bookkeeping and Dutch tax administration for small-business owners. [Website](https://paper-work.nl) · [Live app](https://app.paper-work.nl) (login required).
+- 📖 Read the code: **[paperwork-public](https://github.com/HenryCordes/paperwork-public)** (React · Node · MongoDB · Redis) · **[paperwork-app-public](https://github.com/HenryCordes/paperwork-app-public)** (Ionic React · Capacitor)
+- 🤖 Two production AI features, code included: multimodal **invoice/receipt extraction** (LLM output cross-checked by a deterministic validation layer) and an **agentic VAT pre-check** whose anomaly detector reasons over tenant-scoped, read-only tools — with `tenantId` bound at construction so it can never reach another tenant's data.
+- 📱 Get the app: [App Store](https://apps.apple.com/us/app/paperwork/id6746358088) · [Google Play](https://play.google.com/store/apps/details?id=nl.paperwork.app).
+
+_(Public repos are source-available for viewing/evaluation — see each repo's license.)_
 
 ### Elsewhere
-[devartist.nl](https://devartist.nl) · [LinkedIn](https://www.linkedin.com/in/henrycordes)
+- Website — [devartist.nl](https://devartist.nl)
+- LinkedIn — [linkedin.com/in/henrycordes](https://www.linkedin.com/in/henrycordes)
 
 _Open to senior fullstack / product engineering roles — remote._
