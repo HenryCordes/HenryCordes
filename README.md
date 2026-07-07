@@ -1,6 +1,6 @@
 # Henry Cordes
 
-**Senior Fullstack Engineer — 20+ years shipping web and mobile products.**
+**Senior Fullstack Engineer — 15+ years shipping web and mobile products.**
 
 I design and build maintainable, elegant products end to end — from architecture and data modelling through to a polished product. The best part for me is seeing real people use something I've built and have it genuinely improve their workflow, or a part of their day. Currently engineering for global clients at Lumenalta, and founder of my own practice, Dev Artist.
 
