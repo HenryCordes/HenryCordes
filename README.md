@@ -14,7 +14,7 @@ Lately I've been moving deeper into AI engineering — bringing LLMs into real p
 
 **Based in:** the Netherlands · working remotely 
 
-### Example repo
+### Recent work
 
 🔧 [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow) — my AI-assisted engineering harness: spec-driven, eval-measured, installable as a Claude Code plugin
 
