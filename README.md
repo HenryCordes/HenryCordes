@@ -2,9 +2,9 @@
 
 **Senior Fullstack Engineer — building maintainable, elegant web and mobile products.**
 
-I design and build products end to end — from architecture and data modelling through to a polished product. The best part for me is seeing real people use something I've built and have it genuinely improve their workflow, or a part of their day. Currently engineering for global clients at Lumenalta, and founder of my own practice, Dev Artist.
+I design and build products end to end — from architecture and data modelling through to a polished product. The best part for me is seeing real people use something I've built and have it genuinely improve their workflow, or a part of their day. Six years engineering for global clients at Lumenalta; now building Paperwork through my own practice, Dev Artist.
 
-I was architect and lead developer of RobinHQ, an e-commerce customer-service/helpdesk SaaS, taking it from the first commit through to a mature platform — and I've spent my career raising engineering quality through TDD, DDD, clean architecture and CI/CD, while mentoring the teams around me.
+Earlier I was architect and lead developer of RobinHQ, an e-commerce customer-service SaaS I took from first commit to mature platform over eight years — a career spent raising engineering quality through TDD, DDD, clean architecture and CI/CD, and mentoring the teams around me.
 
 Lately I've been moving deeper into AI engineering — bringing LLMs into real products with the same discipline I hold the rest of the stack to. In Paperwork I've shipped two production AI features: multimodal invoice/receipt extraction, with LLM output cross-checked by a deterministic validation layer, and an agentic VAT pre-check whose anomaly detector reasons over tenant-scoped, read-only tools. My focus is AI that's accurate, cost-aware and production-grade — not demos.
 
