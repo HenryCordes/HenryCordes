@@ -17,6 +17,7 @@ Lately I've been moving deeper into AI engineering — bringing LLMs into real p
 ### Recent work
 
 🔧 [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow) — my AI-assisted engineering harness: spec-driven, eval-measured, installable as a Claude Code plugin
+🧹 [daily-job-sweeper](https://github.com/HenryCordes/daily-job-sweeper) — daily automated sweep for remote dev jobs that fit your profile: multi-source, ATS fingerprinting, a self-growing watchlist, zero dependencies. Built spec-first with the workflow above
 
 ### Currently building
 
