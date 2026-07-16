@@ -14,6 +14,10 @@ Lately I've been moving deeper into AI engineering — bringing LLMs into real p
 
 **Based in:** the Netherlands · working remotely 
 
+### Example repo
+
+🔧 [ai-engineering-workflow](https://github.com/HenryCordes/ai-engineering-workflow) — my AI-assisted engineering harness: spec-driven, eval-measured, installable as a Claude Code plugin
+
 ### Currently building
 
 **Paperwork** — bookkeeping and Dutch tax administration for small-business owners. [Website](https://paper-work.nl) · [Live app](https://app.paper-work.nl) (login required).
